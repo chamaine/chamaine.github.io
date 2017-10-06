@@ -1,0 +1,117 @@
+/* Background Container */
+
+
+/* General styles */
+
+header
+	{	background-color: #ffffff;
+		float: top;
+		height: 180px;
+		text-align: right;
+		font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+		
+	}
+
+body 
+	{
+	background: url("../images/binding_dark_@2X.png");
+  	margin: 0;
+	}
+
+h1
+	{	padding: 20px;
+		font-family: 'Georgia', Times, Times New Roman, serif;
+		color: #533245;
+		text-align: center;
+		background: #4aaaa5;
+	}	
+
+h2 	{	padding: 20px;
+		font-family: 'Georgia', Times, Times New Roman, serif;
+		font-color: #fff;
+		text-align: center;
+	}
+
+
+p
+	{	margin: 20px;
+		font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+		font-color: #777777;
+		line-height: 150%;
+
+	}
+
+#a	{	text-decoration-color:#777777; 
+		text-decoration: none;
+
+	}
+
+.rightnav
+	{	float: right;
+		padding-top: 160px;
+		padding-right: 20px;
+
+	}
+
+
+.block1
+	{	float: left;
+		margin-left: 60px;
+		margin-bottom: 0px;
+		width: 340px;
+  		height: 100px;
+  		background-color: #4aaaa5;
+	}
+
+.container
+	{	width: 650px;
+		background-color: #ffffff;
+		border-color: #dddddd
+		float: center;
+		margin-left: 60px;
+		margin-top: 40px;
+
+	}
+
+.containerside
+	{	width: 270px;
+		background-color: #ffffff;
+		border-color: #dddddd;
+		position: relative;
+
+
+	}
+
+.rightsidebar
+	{	padding: 30px;
+		background-color: #ffffff;
+		border-color: #dddddd
+		margin-top: 40px;	
+	}
+
+.mainbio
+	{	padding: 30px;
+		background-color: #ffffff;
+		border-color: #dddddd
+		margin-top: 40px;
+
+
+	}	
+
+
+.topnavright
+	{	float: right;
+		width: 60%;
+  		height: 200px;
+  	}
+
+
+.block1 
+	{	margin: 10px;
+		width: 300px;
+  		height: 100px;
+  		background-color: #4aaaa5;
+	}
+
+
+
